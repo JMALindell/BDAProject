@@ -1,3 +1,5 @@
+# SOME WRITTEN VALUES MAY BE WRONG WITHIN THE COMMENTS DUE TO REWRITING CODE
+
 library(rstan)
 library(readxl)
 library(posterior)
